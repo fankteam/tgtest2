@@ -123,6 +123,7 @@ body {
     height: 100%;
   }
   .cafe-item-label {
+    color: var(--tg-theme-text-color);
     display: flex;
     justify-content: center;
   }
