@@ -123,7 +123,8 @@ body {
     height: 100%;
   }
   .cafe-item-label {
-    color: var(--tg-theme-text-color);
+    /*     color: var(--tg-theme-text-color); */
+    color: red;
     display: flex;
     justify-content: center;
   }
